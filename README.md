@@ -13,3 +13,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian404&show_icons=true&locale=en&layout=compact" alt="brian404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brian404&" alt="brian404" /></p>
+![snake gif](https://github.com/brian404/brian404/blob/output/github-snake-dark.svg)
